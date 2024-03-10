@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <!-- <p><br/></p> -->
 
-## 😂 Meme For Fun
+## 😂 Fun Stuff
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 <!-- <p><br/></p> -->
 
