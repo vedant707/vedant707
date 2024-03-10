@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <!-- <p><br/></p> -->
 
 ## ✍️ Food For Thought
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 <!-- <p><br/></p> -->
 
 ## 😂 Fun Stuff
