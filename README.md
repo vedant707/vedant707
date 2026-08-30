@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/haramibrat" target="blank"><img src="https://img.shields.io/twitter/follow/haramibrat?logo=twitter&style=for-the-badge" alt="haramibrat" /></a> </p> -->
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, **Python**, **Salesforce**
 
 - ⚡ Fun fact **Humour Me!**
 <br></br>
